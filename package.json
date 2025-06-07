@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "server": "node backend/server.js"
+    "server": "nodemon backend/server.js"
   },
   "repository": {
-    "type": "git",
+    "type": "modules",
     "url": "git+https://github.com/Dibora12/Chat-App.git"
   },
   "keywords": [],
